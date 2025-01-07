@@ -1,0 +1,7 @@
+@import "./fonts.css";
+@import "./styles.css";
+@import "./swiper.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
